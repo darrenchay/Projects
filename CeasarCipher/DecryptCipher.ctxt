@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DecryptCipher
+comment0.text=\r\n\ Write\ a\ description\ of\ decrypt\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=encrypted
+comment1.target=java.lang.String\ decypt(java.lang.String)
+comment2.params=message
+comment2.target=int[]\ countletters(java.lang.String)
+comment3.params=
+comment3.target=void\ testcount()
+comment4.params=freq
+comment4.target=int\ maxIndex(int[])
+comment5.params=message\ Start
+comment5.target=java.lang.String\ halfofString(java.lang.String,\ int)
+comment6.params=message
+comment6.target=int\ getKey(java.lang.String)
+comment7.params=encrypted
+comment7.target=void\ decryptTwoKeys(java.lang.String)
+comment8.params=
+comment8.target=void\ keytester()
+comment9.params=
+comment9.target=void\ testMxIndex()
+numComments=10
