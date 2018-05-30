@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=tester
+comment0.text=\r\n\ Write\ a\ description\ of\ tester\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ testCeasarCracker()
+comment2.params=
+comment2.target=void\ testSliceString()
+comment3.params=
+comment3.target=void\ testTryKeyLength()
+comment4.params=
+comment4.target=void\ tests()
+comment5.params=
+comment5.target=void\ testbreakVigenere()
+comment6.params=
+comment6.target=void\ testMostCommon()
+numComments=7
